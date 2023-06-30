@@ -7,6 +7,6 @@ Google Sheets Link
 https://docs.google.com/spreadsheets/d/1G3QhUK8Nhh4rU2iaBpQ3zwTj8hVtvybvSeXgIcPffAs/edit#gid=454684747
 
 
-P.s : sorry for only providing the google sheets link, because when integrating Google sheets into github, it always fails. 
+P.s : sorry for only providing the google Sheets link, because when integrating Google Sheets into Github, it always fails. 
 
 
